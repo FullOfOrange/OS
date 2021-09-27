@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "utsname.h": "c",
+        "sched.h": "c",
+        "type_traits": "cpp"
+    }
+}
